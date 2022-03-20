@@ -109,7 +109,7 @@ namespace EzIPApi
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Name = "EasyIPmaster";
-            this.Text = "Form1";
+            this.Text = "EasyIPmaster";
             this.Load += new System.EventHandler(this.EasyIPmaster_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
