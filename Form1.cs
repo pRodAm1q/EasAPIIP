@@ -100,5 +100,10 @@ namespace EzIPApi
                 MessageBox.Show("Error");
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show($"Выполнил: \n студент группы 015 \n Мартьянов Владислав");
+        }
     }
 }
